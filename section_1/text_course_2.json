@@ -2,6 +2,7 @@
     "title": "内联属性（Inline style attribute）",
     "type": "text",
     "order": 0,
+    "desc":[""],
     "desc_file":true,
     "question": {
         "content": "下列哪些是以内联属性的方式引入CSS？",

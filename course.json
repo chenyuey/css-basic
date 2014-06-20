@@ -19,7 +19,7 @@ CSS是模型与视图分离这个概念的典范之作。\
         "type": "path",
         "column": "_id",
         "index": {
-            "name": "CSS"
+            "name": "Javascript"
         }
     }
 }
