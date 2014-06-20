@@ -1,0 +1,6 @@
+{
+    "name": "引入CSS",
+    "desc": "CSS是为HTML提供显示效果的，但是我们必须在HTML里引入CSS，它才会起作用。我们这一节讲述如何引入CSS。",
+    "order": 0,
+    "type": "normal"
+}

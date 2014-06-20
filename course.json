@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "show_name": "CSS 基础",
+        "id_name":   "css_basic",
+        "desc": "CSS 全名翻译过来叫 级联样式表 。\
+它是一种用来表现HTML或XML等文件样式的计算机语言。\
+CSS是模型与视图分离这个概念的典范之作。\
+学习本课程需要有HTML基础",
+//        "target_effect": {
+//            "name": "订餐大师",
+//            "desc": "订餐大师是行政帮大家订餐时使用的应用。我们通过订餐大师的案例来学习angularjs的基本知识以及web开发的基础框架。",
+//            "href": "/super_show/index.html"
+//        },
+        "order": 0,
+        "ico": "images/angularjs_logo.png",
+        "title_ico": "images/AngularJS.png"
+    },
+    "relevance": {
+        "type": "path",
+        "column": "_id",
+        "index": {
+            "name": "CSS"
+        }
+    }
+}
