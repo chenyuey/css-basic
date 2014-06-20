@@ -1,6 +1,6 @@
 {
     "name": "CSS选择器",
     "desc": "CSS选择器是CSS的基础，他帮助我们选择到我们想要操作的HTML元素，并改变他的显示样式。",
-    "order": 0,
+    "order": 1,
     "type": "normal"
 }
