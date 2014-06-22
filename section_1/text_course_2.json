@@ -1,6 +1,6 @@
 {
     "title": "内联属性（Inline style attribute）",
-    "type": "text",
+    "type": "topic",
     "order": 1,
     "desc":[""],
     "desc_file":true,
@@ -15,8 +15,6 @@
     },
     "answer": {
         "value": "<h1 style='color: #ffffff'>我的颜色被修改了</h1>",
-        "explains": [
-            "<p>这里答案应该是<h1 style='color: #ffffff'>我的颜色被修改了</h1>，它是设置的sytle属性，虽然用单引号引起来，并不改变这个事实</p>"
-        ]
+        "explain_file":true
     }
 }
