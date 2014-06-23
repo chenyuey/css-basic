@@ -1,6 +1,19 @@
 {
     "title": "写在style标签里",
-    "type": "text",
+    "type": "topic",
     "order": 2,
-    "desc_file": true
+    "desc_file": true,
+    "question": {
+        "content": "下列哪些是以style的方式引入CSS？",
+        "options": [
+            "<head><script>h1 { font-size: 12px; } </script></head>",
+            "<head><style type='text/css'>h1 { font-size: 12px; } </style></head>",
+            "<h1>h1 { font-size: 12px; }</h1>",
+            "<head>h1 { font-size: 12px; } </head>"
+        ]
+    },
+    "answer": {
+        "value": "<head><style type='text/css'>h1 { font-size: 12px; } </style></head>",
+        "explain_file":true
+    }
 }
