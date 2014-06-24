@@ -1,6 +1,19 @@
 {
     "title": "元素选择器（Element Selector）",
-    "type": "text",
+    "type": "topic",
     "order": 1,
-    "desc_file": true
+    "desc_file": true,
+    "question": {
+        "content": "上面代码中，哪个元素样式的color属性不是red？",
+        "options": [
+            "div",
+            "h1",
+            "h2",
+            "p"
+        ]
+    },
+    "answer": {
+        "value": "p",
+        "explain_file":true
+    }
 }

@@ -16,7 +16,7 @@ property是您希望设置的样式属性的名字，也就是前文所说属性
 
     h1 {
       font-size: 12px;
-      color: black;
+      color: #ffffff;
       font-family: sans-serif;
     }
 
