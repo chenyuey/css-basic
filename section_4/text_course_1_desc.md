@@ -11,8 +11,9 @@ HTML的元素现实模型被称为盒子模型，任何一个在页面上显示�
 
 一个盒子的总宽 = width + padding-left + padding-right + border-left + border-right
 
-但是展示的时候当然你还得考虑margin，但是有些浏览器里margin是会叠加的，所以还要根据上下文来考虑。
+高度也是类似，当然实际显示的时候你还得考虑margin，但是有些浏览器里margin是会叠加的，所以还要根据上下文来考虑。
 
+那么我们来看一个css：
 
   .grid-item {
      border: 2px;

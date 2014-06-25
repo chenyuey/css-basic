@@ -4,7 +4,7 @@
     "order": 0,
     "desc_file": true,
     "question": {
-        "content": "盒子的总宽是？",
+        "content": "他匹配的盒子的总宽是？",
         "options": [
             "50px",
             "67px",
