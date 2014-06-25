@@ -1,0 +1,19 @@
+{
+    "title": "样式覆盖-根据引用方式确定优先级",
+    "type": "topic",
+    "order": 0,
+    "desc_file": true,
+    "question": {
+        "content": "h1的颜色值是？",
+        "options": [
+            "#ffffff",
+            "#dddadd",
+            "#444245",
+            "#123456"
+        ]
+    },
+    "answer": {
+        "value": "#123456",
+        "explain_file":true
+    }
+}
