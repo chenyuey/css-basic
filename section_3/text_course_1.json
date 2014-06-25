@@ -1,0 +1,19 @@
+{
+    "title": "样式继承",
+    "type": "topic",
+    "order": 0,
+    "desc_file": true,
+    "question": {
+        "content": "下列哪个属性是不会被继承的",
+        "options": [
+            "font-size",
+            "text-align",
+            "color",
+            "border"
+        ]
+    },
+    "answer": {
+        "value": "border",
+        "explain_file":true
+    }
+}
