@@ -1,0 +1,19 @@
+{
+    "title": "盒子模型",
+    "type": "topic",
+    "order": 0,
+    "desc_file": true,
+    "question": {
+        "content": "盒子的总宽是？",
+        "options": [
+            "50px",
+            "67px",
+            "69px",
+            "17px"
+        ]
+    },
+    "answer": {
+        "value": "69px",
+        "explain_file":true
+    }
+}
