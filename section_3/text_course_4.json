@@ -1,0 +1,19 @@
+{
+    "title": "样式覆盖-选择器优先级",
+    "type": "topic",
+    "order": 3,
+    "desc_file": true,
+    "question": {
+        "content": "问p的color属性是？",
+        "options": [
+            "#ffffff",
+            "red",
+            "#444245",
+            "black"
+        ]
+    },
+    "answer": {
+        "value": "red",
+        "explain_file":true
+    }
+}
