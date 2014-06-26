@@ -2,18 +2,5 @@
     "title": "布局定位-float与父级元素的宽度相关",
     "type": "text",
     "order": 0,
-    "desc_file": true,
-    "question": {
-        "content": "",
-        "options": [
-            "left",
-            "none",
-            "last",
-            "right"
-        ]
-    },
-    "answer": {
-        "value": "right",
-        "explain_file":true
-    }
+    "desc_file": true
 }
