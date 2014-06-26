@@ -1,4 +1,4 @@
-布局定位最重要的三个css属性float, position和display。
+布局定位最重要的四个css属性float, clear, position和display。
 再配上我们前面学会的盒子模型的几个属性width, height,padding, margin, border。
 
 这些就是页面布局的全部工具了。你看到的所有页面都是用他们配合实现的，万变不离其宗。
