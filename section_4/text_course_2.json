@@ -1,0 +1,19 @@
+{
+    "title": "布局定位-float",
+    "type": "topic",
+    "order": 0,
+    "desc_file": true,
+    "question": {
+        "content": "",
+        "options": [
+            "left",
+            "none",
+            "last",
+            "right"
+        ]
+    },
+    "answer": {
+        "value": "right",
+        "explain_file":true
+    }
+}
