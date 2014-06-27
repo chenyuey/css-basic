@@ -1,9 +1,9 @@
 无论在任何一种情况下，只要你在样式上加了important，那么他最大，前面所有的规则都忽略
 加了important的代码样子如下：
 
-     p {
+    p {
         color: white !important;
-     }
+    }
 
 根据以上规则，请看下面的代码
 

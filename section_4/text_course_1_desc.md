@@ -15,10 +15,10 @@ HTML的元素现实模型被称为盒子模型，任何一个在页面上显示�
 
 那么我们来看一个css：
 
-  .grid-item {
-     border: 2px;
-     padding-left: 10px;
-     padding-right: 5px;
-     width: 50px;
-  }
+    .grid-item {
+        border: 2px;
+        padding-left: 10px;
+        padding-right: 5px;
+        width: 50px;
+    }
 
