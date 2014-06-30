@@ -1,6 +1,19 @@
 {
     "title": "position",
-    "type": "text",
+    "type": "topic",
     "order": 0,
-    "desc_file": true
+    "desc_file": true,
+    "question": {
+        "content": "下列哪些不是position的值？",
+        "options": [
+            "static",
+            "relative",
+            "absolute",
+            "none"
+        ]
+    },
+    "answer": {
+        "value": "none",
+        "explain":"position的默认值是static，不是none"
+    }
 }
