@@ -11,20 +11,21 @@
 
     "project_dir": "/practices",
     "specs_dir": "/specs",
+    "paths": {
+        "spec": "/specs/section_3/practice_1"
+    },
     "files": [
         {
-            "name": "challenge_0.html",
-            "path": "/practices/"
+            "name": "challenge.html",
+            "path": "/practices/section_3"
         },
         {
-            "name": "style_0.html",
-            "path": "/practices/"
+            "name": "style.css",
+            "path": "/practices/section_3"
         }
     ],
     "spec": {
-        "type":"terminal",
-        "src":"browser",
-        "name": "challenge_0.html",
+        "name": "challenge.html",
         "path": "/practices/"
     },
     "order": 0
