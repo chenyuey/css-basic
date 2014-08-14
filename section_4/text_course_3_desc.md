@@ -1,12 +1,11 @@
 上节我们学习了float: right和float: left的效果，当我们使用float的时候，我们要知道他的表现是与父级元素宽度(width)相关的。
 
 比如下面的代码
-    <!-- HTML -->
+
     <article>
         <img class="float-right" src="right.jpg" alt="靠右的图片" />
         <img class="float-left" src="left.jpg" alt="靠左的图片" />
     </article>
-
     //...
     //CSS
     .float-right {
