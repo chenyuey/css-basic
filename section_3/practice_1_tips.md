@@ -1,0 +1,2 @@
+- 只需要有两个选择器就好了 .abstract 和 .abstract a
+- a标签颜色应该设置为： inherit 。没有下划线的css的属性是： text-decoration: none;
