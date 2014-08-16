@@ -12,22 +12,22 @@
     "project_dir": "/practices",
     "specs_dir": "/specs",
     "paths": {
-        "spec": "/specs/section_2/practice_4",
+        "spec": "/specs/section_2/practice_5",
         "src": ["/lib/css-parser"]
     },
     "files": [
         {
             "name": "challenge.html",
-            "path": "/practices/section_2/practice_4"
+            "path": "/practices/section_2/practice_5"
         },
         {
             "name": "style.css",
-            "path": "/practices/section_2/practice_4"
+            "path": "/practices/section_2/practice_5"
         }
     ],
     "spec": {
         "name": "challenge.html",
-        "path": "/practices/section_2/practice_4/"
+        "path": "/practices/section_2/practice_5/"
     },
-    "order": 3
+    "order": 4
 }
