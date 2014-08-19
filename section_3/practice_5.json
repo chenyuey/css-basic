@@ -1,0 +1,33 @@
+{
+    "name": "外部CSS",
+    "type": "normal",
+    "point": 200,
+
+    "simple_desc": "在这个练习里，我们练习属性继承的一种场景",
+    "desc_file": true,
+    "step_desc_file": true,
+    "tips_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "paths": {
+        "spec": "/specs/section_3/practice_5",
+        "src": ["/lib/css-parser"]
+    },
+    "files": [
+        {
+            "name": "challenge.html",
+            "path": "/practices/section_3/practice_5"
+        },
+        {
+            "name": "style.css",
+            "path": "/practices/section_3/practice_5"
+        }
+    ],
+    "spec": {
+        "name": "challenge.html",
+        "path": "/practices/section_3/practice_5/"
+    },
+    "order": 0
+}
