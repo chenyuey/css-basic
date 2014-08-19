@@ -1,0 +1,3 @@
+这一节我们继续练习css的继承问题。
+
+我们这次要让span继承abstract的border属性
