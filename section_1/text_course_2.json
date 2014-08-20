@@ -8,7 +8,7 @@
         "content": "下列哪些是以内联属性的方式引入CSS？",
         "options": [
             "<h1 style='color: #ffffff'>我的颜色被修改了</h1>",
-            "<h1 onclick='alert('clicked')'>我的点击被修改了</h1>",
+            "<h1 onclick=\"alert('clicked')\">我的点击被修改了</h1>",
             "<style>h1{}</style>",
             "<h1>我的内容被修改了</h1>"
         ]
