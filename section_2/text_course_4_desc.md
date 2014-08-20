@@ -1,5 +1,5 @@
 CSS的第三个重要的选择器是ID选择器。
-ID 选择器前面有一个 # 号 - 称为井号，英语中叫hash或sharp。形如：
+ID 选择器前面有一个 # 号，称为井号，英语中叫hash或sharp。形如：
 
     *#warning-title {
         font-weight:bold;
