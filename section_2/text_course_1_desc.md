@@ -2,7 +2,7 @@ CSS的语法规则由两个主要的部分构成：CSS选择器（selector），
 
     selector {declaration1; declaration2; ... declarationN }
 
-选择器标明了我们要操作的HTML元素。 每个声明用引号隔开，最后一个声明不用
+选择器标明了我们要操作的HTML元素。 每个声明用分号隔开，最后一个声明不用
 
 而每一个声明由一个属性名和一个值组成。属性名和值被冒号分开。如下：
 
