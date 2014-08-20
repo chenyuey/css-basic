@@ -14,7 +14,7 @@
 CSS代码：
 
     div {
-        color:red;
+        color: red;
     }
 
 HTML代码：
