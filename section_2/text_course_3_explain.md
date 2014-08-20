@@ -2,4 +2,4 @@
 
     button{ color: white; }
 
-这个代码里试用了元素选择器，此处的button没有加"."，指的是html标签。
+这段代码里使用了元素选择器，此处的button没有加"."前缀，指的是html标签。
