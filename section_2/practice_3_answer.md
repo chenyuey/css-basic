@@ -1,5 +1,5 @@
 答案如下：
     
-    article .abstract {
+    article p.abstract {
         border: thin black solid;
     }

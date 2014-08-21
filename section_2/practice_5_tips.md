@@ -1,5 +1,5 @@
 本题匹配的选择器：
     
-    span.highlight {
+    #w3c-link {
         //在这下面输入代码
     }

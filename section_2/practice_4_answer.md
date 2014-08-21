@@ -1,5 +1,5 @@
 答案如下：
     
-    span.highlight {
+    p.highlight {
         border: thin black solid;
     }
