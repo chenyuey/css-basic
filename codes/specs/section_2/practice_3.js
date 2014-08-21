@@ -12,7 +12,7 @@ describe('practice-2-1', function () {
     it("use star selector to change all elements", function (done) {
         console.log(JSON.stringify(css_object));
 
-        expect(css_object.stylesheet.rules[0].selectors[0]).toBe('.abstract');
+        expect(css_object.stylesheet.rules[0].selectors[0]).toBe('article .abstract');
 
         var border_values = _(css_object.stylesheet.rules[0].declarations).findWhere({property:"border"}).value.split(" ");
         expect(border_values).toContain("thin");
