@@ -1,6 +1,6 @@
 HTML的元素现实模型被称为盒子模型，任何一个在页面上显示的元素都是呈现形式为一个盒子形状
 
-![盒子模型](http://www.w3school.com.cn/i/ct_boxmodel.gif)
+![盒子模型](http://course-image.qiniudn.com/css_basic_css_box_model.jpg)
 
 盒子模型的的最内部分是实际的内容，直接包围内容的是内边距(padding)。
 内边距的边缘是边框(border)。边框以外是外边距(margin)，内外边距默认是透明的，因此不会遮挡其后的任何元素,包括元素的背景。
