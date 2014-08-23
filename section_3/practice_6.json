@@ -11,10 +11,7 @@
 
     "project_dir": "/practices",
     "specs_dir": "/specs",
-    "paths": {
-        "spec": "/specs/section_3/practice_6",
-        "src": ["/lib/css-parser"]
-    },
+    
     "files": [
         {
             "name": "challenge.html",
@@ -25,9 +22,11 @@
             "path": "/practices/section_3/practice_6"
         }
     ],
-    "spec": {
+
+    "runner": {
         "name": "challenge.html",
-        "path": "/practices/section_3/practice_6/"
+        "path": "/practices/section_3/practice_6",
+        "run_files": ["../lib/css-parser","../specs/section_3/practice_6"]
     },
     "order": 5
 }
