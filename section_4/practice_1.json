@@ -1,0 +1,32 @@
+{
+    "name": "外部CSS",
+    "type": "normal",
+    "point": 200,
+
+    "simple_desc": "在这个练习里，我们会实现一个三栏的流式布局",
+    "desc_file": true,
+    "step_desc_file": true,
+    "tips_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+
+    "files": [
+    {
+    "name": "challenge.html",
+    "path": "/practices/section_4/practice_1"
+    },
+    {
+    "name": "style.css",
+    "path": "/practices/section_4/practice_1"
+    }
+    ],
+
+    "runner": {
+    "name": "challenge.html",
+    "path": "/practices/section_4/practice_1",
+    "run_files": ["../lib/css-parser","../specs/section_4/practice_1"]
+    },
+    "order": 1
+}

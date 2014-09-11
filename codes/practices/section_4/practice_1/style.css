@@ -1,0 +1,16 @@
+header {
+    border: 1px solid red;
+}
+.container {
+    border: 1px solid red;
+}
+.sidebar {
+    padding: 0 2%;
+    background-color: #eee;
+}
+.main {
+    padding: 0 2%;
+}
+footer {
+    border: 1px solid red;
+}
