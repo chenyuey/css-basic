@@ -1,3 +1,7 @@
-属性值为：
+选择器为：
 
-    color: black !important;
+    a {
+    }
+    
+    a.hehe {
+    }
